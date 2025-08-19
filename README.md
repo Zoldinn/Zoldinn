@@ -31,6 +31,6 @@
 ---
 
 ## 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/lefoffan)  
 📧 <a href="mailto:&#108;&#101;&#111;&#110;&#102;&#111;&#102;&#102;&#97;&#110;&#111;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#102;&#114;">&#108;&#101;&#111;&#110;&#102;&#111;&#102;&#102;&#97;&#110;&#111;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#102;&#114;</a>
 
