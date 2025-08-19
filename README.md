@@ -30,13 +30,13 @@
 
 ---
 
-## 📊 Stats GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zoldinn&show_icons=true&theme=tokyonight)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoldinn&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lefoffan)  
 📧 <a href="mailto:&#108;&#101;&#111;&#110;&#102;&#111;&#102;&#102;&#97;&#110;&#111;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#102;&#114;">&#108;&#101;&#111;&#110;&#102;&#111;&#102;&#102;&#97;&#110;&#111;&#64;&#111;&#117;&#116;&#108;&#111;&#111;&#107;&#46;&#102;&#114;</a>
 
+---
+
+## 📊 Stats GitHub
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zoldinn&show_icons=true&theme=tokyonight)  
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoldinn&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zoldinn)](https://git.io/streak-stats)
