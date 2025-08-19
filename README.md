@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Léon
 
 🎓 Étudiant à [42 Perpignan](https://42.fr/), actuellement dans le tronc commun.  
-💻 Passionné par le **C / C++** et en apprentissage de **Python**, **C#**.  
+💻 Passionné par le **C / C++**.  
 🤖 Intéressé par l’**embarqué**, la **robotique**, l’**IA** et le **jeu vidéo**.  
 🌌 Ancien étudiant en physique, toujours curieux de science et d’astrophysique.  
 🇯🇵 Amoureux du Japon et sa culture.  
@@ -19,8 +19,14 @@
 
 ## 🚀 En ce moment
 - 🌱 J’approfondis mes compétences en **C++**.  
-- 🔭 Je découvre **Python** pour l’algorithmie et l’IA.  
-- ⚡ Je travaille aussi sur mes projets à 42 .  
+- 🔭 Je découvre **Python**.  
+- ⚡ Je travaille aussi sur mes projets à 42 .
+
+---
+
+## 📙 Et plus tard...
+- ✨ Je voudrais bien apprendre le C#
+- 👾 Reprendre le lua avec LOVE2D
 
 ---
 
