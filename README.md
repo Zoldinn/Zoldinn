@@ -25,8 +25,8 @@
 ---
 
 ## 📊 Stats GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zoldinn&show_icons=true&theme=tokyonight)  
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoldinn&layout=compact&theme=tokyonight)
 
 ---
 
