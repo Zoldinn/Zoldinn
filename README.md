@@ -39,4 +39,4 @@
 ## 📊 Stats GitHub
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zoldinn&show_icons=true&theme=tokyonight)  
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoldinn&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zoldinn&theme=tokyonight&locale=fr&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zoldinn&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
