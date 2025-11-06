@@ -22,7 +22,7 @@ Désormais étudiant à [42 Perpignan](https://42.fr/), actuellement dans le tro
 ---
 
 ## En ce moment
-J'essaye de découvrir ce qui me plais langages, frameworks, ... Je travaille aussi sur mes projets à 42 bien sûr.
+J'essaye de découvrir ce qui me plais en langages, frameworks, ... Je travaille aussi sur mes projets à 42 bien sûr.
 
 ---
 
