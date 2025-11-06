@@ -1,9 +1,7 @@
-# 👋 Salut, je suis Léon
+# Bonjour, moi c'est Léon
 
-🎓 Étudiant à [42 Perpignan](https://42.fr/), actuellement dans le tronc commun.  
-💻 À fond en ce moment sur le **C++**.  
-🌌 Ancien étudiant en physique, toujours curieux de science et d’astrophysique.  
-❤️ Amoureux de musique, de lecture, de tech en général, ...
+Ancien étudiant en physique, je ne cherche plus seulement à comprendre notre monde mais à y apporter mes créations aussi !
+Désormais étudiant à [42 Perpignan](https://42.fr/), actuellement dans le tronc commun.  
 
 ---
 
@@ -23,23 +21,17 @@
 
 ---
 
-## 🚀 En ce moment
-- 🔭 Je découvre des frameworks, je teste des trucs...  
-- ⚡ Je travaille aussi sur mes projets à 42.
+## En ce moment
+- 🔭 J'essaye de découvrir ce qui me plait (langages, frameworks)
+- ⚡ Je travaille aussi sur mes projets à 42 bien sûr.
 
 ---
 
-## 📙 Et plus tard...
-- ✨ Je voudrais bien apprendre le C#, jeter un coup d'oeil au Rust, voir ce qu'on peut faire avec du python en IA
-- 👾 Apprendre à utiliser des moteurs style Unity ou Unreal Engine pour l'XR et peut-être du jeu vidéo
-
----
-
-## 📫 Me contacter
+## Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lefoffan)  
 
 ---
 
-## 📊 Stats GitHub
+## Stats GitHub
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zoldinn&show_icons=true&theme=tokyonight)  
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoldinn&layout=compact&theme=tokyonight)
