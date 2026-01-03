@@ -19,9 +19,3 @@ With a background in physics, I transitioned to coding to move from theoretical 
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lefoffan)  
-
----
-
-## Stats GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zoldinn&show_icons=true&theme=tokyonight)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoldinn&layout=compact&theme=tokyonight)
